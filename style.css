@@ -1,0 +1,28 @@
+#header {
+    background-color: #E9BCB7;
+    background-image: linear-gradient(315deg, #e9bcb7 0%, #29524a 74%);;
+    display: flex;
+    justify-content: space-between;
+}
+
+#origamiDesigns {
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+#origamiDesign p, ol, h4{
+    padding: 15px;
+    margin: 25px;
+}
+
+#origamiDesign img:hover {
+    -webkit-transform: scale(1.2) rotate(0.01deg);
+    transform: scale(1.2) rotate(0.01deg);
+}
+
+body {
+    background-color: #DEEBDE;
+    color: #DF2800;
+    text-align: center;
+    background-image: linear-gradient(315deg, #deebdd 0%, #bbdbbe 74%);
+}
